@@ -15,7 +15,7 @@ const Working = () => {
 
         <div className="grid md:grid-cols-3 gap-10">
 
-          <div className="bg-white p-8 rounded-xl shadow-sm border hover:shadow-md transition">
+          <div className="bg-white p-8 rounded-xl shadow-sm border-[0.5px] border-gray-300 hover:shadow-md transition">
             <div className="text-3xl font-bold mb-4 text-blue-600">01</div>
 
             <h3 className="text-xl font-semibold">
@@ -27,7 +27,7 @@ const Working = () => {
             </p>
           </div>
 
-          <div className="bg-white p-8 rounded-xl shadow-sm border hover:shadow-md transition">
+          <div className="bg-white p-8 rounded-xl shadow-sm border-[0.5px] border-gray-300 hover:shadow-md transition">
             <div className="text-3xl font-bold mb-4 text-blue-600">02</div>
 
             <h3 className="text-xl font-semibold">
@@ -39,7 +39,7 @@ const Working = () => {
             </p>
           </div>
 
-          <div className="bg-white p-8 rounded-xl shadow-sm border hover:shadow-md transition">
+          <div className="bg-white p-8 rounded-xl shadow-sm border-[0.5px] border-gray-300 hover:shadow-md transition">
             <div className="text-3xl font-bold mb-4 text-blue-600">03</div>
 
             <h3 className="text-xl font-semibold">

@@ -13,7 +13,7 @@ const Pricing = () => {
 
         <div className="grid md:grid-cols-3 gap-8 mt-16">
           {/* Starter */}
-          <div className="border rounded-xl p-8 hover:shadow-xl hover:-translate-y-1 transition text-center flex flex-col">
+          <div className="border-[0.5px] border-gray-300 rounded-xl p-8 hover:shadow-xl hover:-translate-y-1 transition text-center flex flex-col">
             <h2 className="text-3xl font-semibold mb-3">Starter</h2>
 
             <div className="flex justify-center items-end gap-1 mb-6">
@@ -92,7 +92,7 @@ const Pricing = () => {
           </div>
 
           {/* Enterprise */}
-          <div className="border rounded-xl p-8 hover:shadow-xl hover:-translate-y-1 transition text-center flex flex-col">
+          <div className="border-[0.5px] border-gray-300 rounded-xl p-8 hover:shadow-xl hover:-translate-y-1 transition text-center flex flex-col">
             <h2 className="text-3xl font-semibold mb-3">Enterprise</h2>
 
             <div className="flex justify-center items-end gap-1 mb-6">

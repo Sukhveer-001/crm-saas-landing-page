@@ -13,21 +13,21 @@ const FaqSection = () => {
           </p>
         </div>
         <div className="space-y-6">
-          <div className="border rounded-lg p-6">
+          <div className="border-[0.5px] border-gray-300 rounded-lg p-6">
             <h3 className="font-semibold text-lg">Can I cancel anytime?</h3>
             <p className="mt-2 text-gray-600">
               Yes, you can cancel your subscription anytime with no extra fees.
             </p>
           </div>
 
-          <div className="border rounded-lg p-6">
+          <div className="border-[0.5px] border-gray-300 rounded-lg p-6">
             <h3 className="font-semibold text-lg">Is my data secure?</h3>
             <p className="mt-2 text-gray-600">
               We use industry standard encryption and security practices.
             </p>
           </div>
 
-          <div className="border rounded-lg p-6">
+          <div className="border-[0.5px] border-gray-300 rounded-lg p-6">
             <h3 className="font-semibold text-lg">
               Do you offer customer support?
             </h3>

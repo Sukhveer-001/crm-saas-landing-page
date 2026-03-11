@@ -42,8 +42,8 @@ export default function Hero() {
         </div>
 
         {/* hero visual */}
-        <div className="mt-16 w-full max-w-4xl rounded-xl border border-gray-200 shadow-sm hover:-translate-y-1 hover:shadow-2xl overflow-hidden">
-          <img
+        <div className="mt-16 w-full max-w-4xl rounded-xl border border-gray-200 shadow-sm  hover:shadow-2xl duration-300 ease-in  overflow-hidden">
+          <img 
             src="/images/3163379.jpg"
             alt="dashboard preview"
             className="w-full"
